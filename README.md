@@ -48,3 +48,16 @@ The Databricks pipeline was successfully executed and the transformed data was g
 Pushpendra Singh Kushwaha
 
 B.Tech — Computer Science Engineering
+
+## 📸 Project Screenshots
+
+### 📊 Databricks Dashboard
+![Databricks Dashboard](databricks_dashboard.png)
+
+### 🔄 Databricks Pipeline
+![Databricks Pipeline](pipeline.png)
+
+### 📈 Dashboard Analysis
+![Dashboard Analysis](dashboard_analysis.png)
+
+
